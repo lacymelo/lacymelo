@@ -1,9 +1,11 @@
-## Oi!, Eu sou a Laciene Melo 👋
+<img align="right" height="590em" src=""/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Laciene Melo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Se aprofundando em React e React Native
-- 📧 Contate-me no email: lacienealvesmelo@gmail.com
-- 😊 Pronome: ela/dela
+- 🔥 Full Stack Developer in Backend and Frontend
+- 🔭 I provide services to [LABEX](https://projetoslabex.com.br/)
+- 💬 Ask me about **NodeJS, ReactJS, React Native**
+- 👨‍💻 More at [lacymelo.dev](https://www.linkedin.com/in/laciene-alves-melo-97a69b222/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="lacy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
