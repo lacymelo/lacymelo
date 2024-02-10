@@ -1,4 +1,4 @@
-### Oi!, Eu sou a Laciene Melo 👋
+## Oi!, Eu sou a Laciene Melo 👋
 
 - 🔭 Hoje trabalho com front-end e back-end
 - 🌱 Se aprofundando em React e React Native
